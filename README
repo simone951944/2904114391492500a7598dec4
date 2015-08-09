@@ -1,0 +1,46 @@
+#############################################################
+# 
+# Mobile site name: Consulenza informatica 
+# Version date: Sun, 09 Aug 2015 19:40:50 +0000
+#
+#############################################################
+
+
+#############################################################
+# CONTENTS OF THIS ARCHIVE
+#############################################################
+
+This archive contains all the files that compose your mobile website. This is the structure:
+
+/ 
+root directory containing the following files:
+  - index.html (main page, contains the HTML homepage of your site. Here you will also find all the CSS style for customizing the look and feel of your website)
+
+/core
+directory containing the main JavaScript framework (jQuery Mobile) and its CSS file.
+
+/m
+directory containing all the subpages of your mobile site
+
+/images
+directory containing all the images of your mobile site
+
+
+#############################################################
+# Usage and installation
+#############################################################
+
+Just upload the EXACT SAME DIRECTORY STRUCTURE AND FILES that you got when you unpacked the archive to your web server and your mobile websites will be online and ready.
+
+
+#############################################################
+# IMPORTANT!
+#############################################################
+
+Please remember two things:
+- downloading a site means taking a "snapshot" of it. You will have all your HTML, CSS and images files but all dynamic content (forms, RSS lists, coupons, ...) will not work as for those element to work it is required to keep your site hosted on the main server
+- you cannot install your mobile site in a subdirectory of an existing website
+
+
+Thanks! :)
+
